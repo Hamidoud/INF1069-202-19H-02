@@ -12,3 +12,6 @@
 [Confluent RBC Use Case](https://www.youtube.com/watch?v=WTxmHHJcHRc&feature=youtu.be)
 
 [kafka-streams-in-action-ksql](https://freecontent.manning.com/kafka-streams-in-action-ksql/)
+
+
+[Neha Narkhede (CTO, Confluent) | SpringOne Platform 2018](https://www.youtube.com/watch?v=UC9yFQOJtbQ)
