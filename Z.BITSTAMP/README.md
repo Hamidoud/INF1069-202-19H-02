@@ -7,9 +7,8 @@ Descriptive statistics and probability distributions
 
 ## Prerequisite
 
-* [Install RStudio](https://www.rstudio.com/products/rstudio/download/)
 * [Install R](https://cran.r-project.org/)
-
+* [Install RStudio](https://www.rstudio.com/products/rstudio/download/)
 
 ## Using jsonlite et Curl
 
