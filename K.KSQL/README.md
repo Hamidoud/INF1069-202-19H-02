@@ -2,4 +2,4 @@
 
 
 
-[Distributed stream processing for everyone with KSQL](./)
+[Distributed stream processing for everyone with KSQL by Michael Noll](./big_data_fast_data_easy_data_-_distributed_stream_processing_for_everyone_with_ksql_-_michael_noll_-_berlin_buzzwords_2018.pdf)
