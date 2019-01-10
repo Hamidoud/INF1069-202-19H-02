@@ -18,3 +18,5 @@
 [rkafka.pdf](https://cran.r-project.org/web/packages/rkafka/vignettes/rkafka.pdf)
 
 [KSQL – The Open Source SQL Streaming Engine for Apache Kafka by Kai Wähner](https://www.youtube.com/watch?v=nA-ZKsXNJCQ)
+
+[Tutorials Point - Kafka](https://www.tutorialspoint.com/apache_kafka/)
