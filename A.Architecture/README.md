@@ -1,8 +1,8 @@
 # Architecture
 
-[1](./_model.png)
-[2](./architectures.png)
-[3](./cluster.png)
-[4](./es-cqrs.png)
-[5](./rdbns-types.png)
-[6](./timeseries.png)
+![image](./_model.png)
+![image](./architectures.png)
+![image](./cluster.png)
+![image](./es-cqrs.png)
+![image](./rdbns-types.png)
+![image](./timeseries.png)
