@@ -1,8 +1,27 @@
 # Architecture
 
-![image](./images/_model.png)
-![image](./images/architectures.png)
-![image](./images/cluster.png)
-![image](./images/es-cqrs.png)
-![image](./images/rdbns-types.png)
+## Realtime
+
 ![image](./images/timeseries.png)
+
+## DB Types
+
+![image](./images/rdbns-types.png)
+
+## Req/Res vs Pub/Sub
+
+![image](./images/_model.png)
+
+## Kafka Architecture
+
+![image](./images/architectures.png)
+
+## Kafka Cluster
+
+![image](./images/cluster.png)
+
+## Kafka Patterns
+
+![image](./images/es-cqrs.png)
+
+
