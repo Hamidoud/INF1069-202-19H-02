@@ -40,3 +40,8 @@
 [KSQL – The Open Source SQL Streaming Engine for Apache Kafka by Kai Wähner](https://www.youtube.com/watch?v=nA-ZKsXNJCQ)
 
 [Tutorials Point - Kafka](https://www.tutorialspoint.com/apache_kafka/)
+
+
+# Livres
+
+[Designing Event Driven Systems](http://www.benstopford.com/2018/04/27/book-designing-event-driven-systems/)
