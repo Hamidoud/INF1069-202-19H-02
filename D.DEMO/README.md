@@ -1,6 +1,4 @@
-![image](../images/confluent-logo-300-2.png)
-
-# Music
+# Music Platform
 
 [Building streaming application KSQL](https://www.confluent.io/blog/building-streaming-application-ksql)
 
