@@ -43,5 +43,7 @@
 
 
 # Livres
-
-[Designing Event Driven Systems](http://www.benstopford.com/2018/04/27/book-designing-event-driven-systems/)
+| Intitulé                                |  Commentaires                                                                  |
+|-----------------------------------------|--------------------------------------------------------------------------------|
+| [Designing Event Driven Systems](http://www.benstopford.com/2018/04/27/book-designing-event-driven-systems/) |            |
+| [Kafka Definitive Guide](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf) |            |
