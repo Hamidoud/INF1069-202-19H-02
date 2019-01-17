@@ -23,6 +23,13 @@
 |15|19-04-16| Fin des cours           |                                         |                  |
 
 
+# Cours
+
+| Intitulé                                |  Commentaires                                                                  |
+|-----------------------------------------|--------------------------------------------------------------------------------|
+| https://www.lynda.com/Kafka-tutorials   |                                                                                |
+
+
 # References
 
 [is Kafka a Database?](https://www.youtube.com/watch?v=v2RJQELoM6Y)
