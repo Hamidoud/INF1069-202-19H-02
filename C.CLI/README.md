@@ -2,7 +2,7 @@
 
 ## Installation 
 
-voir [D.Demo](../D.Demo)
+voir [D.DEMO](../D.DEMO)
 
 
 ## Topics
