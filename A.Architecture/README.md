@@ -1,5 +1,10 @@
 # Architecture
 
+## Kafka Theory
+
+https://www.lynda.com/Kafka-tutorials/Kafka-theory-overview/777399/803705-4.html
+
+
 ## Realtime
 
 ![image](./images/timeseries.png)
