@@ -3,12 +3,14 @@
 
 1) Creer son repertoire
 
-2) Recepuper le fichier `docker-compose.yml` de D.DEMO
+2) Recuperer le fichier `docker-compose.yml` de D.DEMO
 
 3) Modifier le fichier:
 
-   * Enlever les applications de musiques
+   * Enlever les applications de musique
    
    * rajouter kafkacat
+   
+4) executer
    
    
